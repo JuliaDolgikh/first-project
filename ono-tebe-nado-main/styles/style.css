@@ -204,7 +204,6 @@
     flex-wrap: wrap;
     gap: 25px;
   
-   
 }
 
 .lots__card-list-item {
@@ -215,15 +214,12 @@
     min-height: 563px;
     margin-top: 27px;
     flex-grow: 1;
-
-
 }
 
 .card-link {
     display: block;
     height: 100%;
     text-decoration: none;
-  
   
 }
 
@@ -244,7 +240,6 @@
 
 .card__about-movie {
     background-image: url(../images/card-lot-01.jpg);
-  
     
 }
 
@@ -252,13 +247,11 @@
 .card__about-book {
     background-image: url(../images/card-lot-02.jpg);
    
-
 }
 
 .card__about-picture {
     background-image: url(../images/card-lot-03.jpg);
-
-    
+  
 }
 
 .card__title {
@@ -290,9 +283,7 @@
     line-height: 23.48px;
     color: black;
     text-decoration: underline;
-    display: block;
-   
-    
+    display: block;  
 
 }
 
